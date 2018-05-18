@@ -17,24 +17,24 @@ daily learning for LINUX .
 	
 	
 
-<style type="text/css">
-	.aaa {
-		border:0px solid #fff;
-		-webkit-animation: loading 10s linear infinite;
-		color:#fff;
-		text-align:center;
-		-webkit-text-shadow:2px 2px 20px #cecece;
-		
-	}
+	<style type="text/css">
+		.aaa {
+			border:0px solid #fff;
+			-webkit-animation: loading 10s linear infinite;
+			color:#fff;
+			text-align:center;
+			-webkit-text-shadow:2px 2px 20px #cecece;
 
-	@-webkit-keyframes loading {
-	    0% {-webkit-transform:translate(0px) rotate(60deg);background-color: yellow;-webkit-opacity:1.0;-webkit-border-radius:0;}
-	    20% {-webkit-transform:translate(50px) rotate(120deg);background-color: red;-webkit-opacity:0.8;-webkit-border-radius:10;}
-	    40% {-webkit-transform:translate(0px) rotate(180deg);background-color: white;-webkit-opacity:0.6;-webkit-border-radius:20;}
-	    60% {-webkit-transform:translate(50px) rotate(240deg);background-color: #000;-webkit-opacity:0.4;-webkit-border-radius:30;}
-	    80% {-webkit-transform:translate(0px) rotate(300deg);background-color: aqua;-webkit-opacity:0.2;-webkit-border-radius:40;}
-	    90% {-webkit-transform:translate(50px) rotate(320deg);background-color: yellowgreen;-webkit-opacity:0.0;-webkit-border-radius:50;}
-	    100% {-webkit-transform:translate(0px) rotate(360deg);background-color: #cccccc;-webkit-opacity:0;-webkit-border-radius:0;}
-	}
-</style>
-	
+		}
+
+		@-webkit-keyframes loading {
+		    0% {-webkit-transform:translate(0px) rotate(60deg);background-color: yellow;-webkit-opacity:1.0;-webkit-border-radius:0;}
+		    20% {-webkit-transform:translate(50px) rotate(120deg);background-color: red;-webkit-opacity:0.8;-webkit-border-radius:10;}
+		    40% {-webkit-transform:translate(0px) rotate(180deg);background-color: white;-webkit-opacity:0.6;-webkit-border-radius:20;}
+		    60% {-webkit-transform:translate(50px) rotate(240deg);background-color: #000;-webkit-opacity:0.4;-webkit-border-radius:30;}
+		    80% {-webkit-transform:translate(0px) rotate(300deg);background-color: aqua;-webkit-opacity:0.2;-webkit-border-radius:40;}
+		    90% {-webkit-transform:translate(50px) rotate(320deg);background-color: yellowgreen;-webkit-opacity:0.0;-webkit-border-radius:50;}
+		    100% {-webkit-transform:translate(0px) rotate(360deg);background-color: #cccccc;-webkit-opacity:0;-webkit-border-radius:0;}
+		}
+	</style>
+
