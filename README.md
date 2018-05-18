@@ -22,6 +22,7 @@ daily learning for LINUX .
 	100% {-webkit-transform:translate(0px) rotate(360deg);background-color: #cccccc;-webkit-opacity:0;-webkit-border-radius:0;}
 	}
 </style>
+
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:-10px;-webkit-transform:rotate(10deg);" class="aaa">1<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:-8px;-webkit-transform:rotate(10deg);" class="aaa">2<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:-6px;-webkit-transform:rotate(10deg);" class="aaa">3<div>
@@ -32,3 +33,4 @@ daily learning for LINUX .
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:6px;-webkit-transform:rotate(10deg);" class="aaa">9<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:8px;-webkit-transform:rotate(10deg);" class="aaa">10<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:10px;-webkit-transform:rotate(10deg);" class="aaa">11<div>
+	
