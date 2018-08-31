@@ -2,6 +2,7 @@
 daily learning for LINUX .
 
 
+<<<<<<< HEAD
 <style type="text/css">
 	.aaa {
 		border:0px solid #fff;
@@ -32,3 +33,5 @@ daily learning for LINUX .
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:6px;-webkit-transform:rotate(10deg);" class="aaa">9<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:8px;-webkit-transform:rotate(10deg);" class="aaa">10<div>
 <div style="height:20px;width:20px;background-color:yellowgreen;-webkit-box-shadow:20px 20px 20px #cecece;position:absolute;top:3;left:10px;-webkit-transform:rotate(10deg);" class="aaa">11<div>
+=======
+>>>>>>> 0d0e777602436bbea7ee23231fac24cc1c5a1be3
